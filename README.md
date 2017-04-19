@@ -3,10 +3,11 @@ Initiation into the world of GitHub
 
 I am learning Data Science:
 
-Python
-R
-Tableau
-Jupyter Notebook
-Statistics
-    
+<ul>
+<li>Python</li>
+<li>R</li>
+<li>Tableau</li>
+<li>Jupyter Notebook</li>
+<li>Statistics</li>
+</ul>
 
