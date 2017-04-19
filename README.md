@@ -1,7 +1,7 @@
 # hello-world
 Initiation into the world of GitHub
 
-I am learning Data Science
+I am learning Data Science:
 
 Python
 R
